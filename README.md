@@ -1,0 +1,1 @@
+# EDA-and-classification-of-the-data-using-SVM
